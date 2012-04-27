@@ -8,4 +8,5 @@ A simple experiment in doing a TCP connection based chat server with Tornado. Th
 
 The sample also broadcasts messages when users connect to CHAT (state) and leave CHAT (state)
 
-I wrote this simple to learn something about Python and Tornado.
+I wrote this simple to learn something about Python and Tornado. I based it on the echo server by phus which can be located
+here: http://tornadogists.org/1231481/
